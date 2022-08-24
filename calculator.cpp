@@ -24,7 +24,7 @@ int main()
     cout << endl << firstNumber << " * " << secondNumber << " = " << prodOfTwoNumbers;
     cout << endl << firstNumber << " / " << secondNumber << " = " << quotOfTwoNumbers;
     cout << endl << firstNumber << " % " << secondNumber << " = " << modOfTwoNumbers;
-    cout << endl << pow(firstNumber, 3)
+    cout << endl << pow(firstNumber, 3);
 
     return 0; 
 }
