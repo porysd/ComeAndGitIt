@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
+    cout << "CALCULATOR BY POWDI" << endl
+        << "----------------------" << endl;
     int firstNumber, secondNumber, sumOfTwoNumbers, diffOfTwoNumbers, prodOfTwoNumbers, quotOfTwoNumbers, modOfTwoNumbers;
     int powOfFirstNumber;
 
